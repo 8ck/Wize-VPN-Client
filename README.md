@@ -1,2 +1,4 @@
-# Wize-VPN-Client
-Just got a bit bored lol.
+# Wize VPN Client
+`
+Basic code, just wanted to make something because im bored..
+`
